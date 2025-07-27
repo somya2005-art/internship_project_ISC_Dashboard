@@ -1,7 +1,8 @@
 This is a dashboard web page built using HTML and Sass, designed to present data and controls in a clean, user-friendly layout. The page includes subtle micro animations to enhance visual feedback and user experience.
 
 🔗 Live Preview
-👉 Check it out here
+
+👉 https://somya2005-art.github.io/internship_project_ISC_Dashboard/
 
 🧰 Built With
 - HTML5
