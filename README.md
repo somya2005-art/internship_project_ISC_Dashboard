@@ -23,8 +23,11 @@ This is a dashboard web page built using HTML and Sass, designed to present data
     - Components designed using modular Sass structure.
 
 💡 Highlights
+
 1.Fully handcrafted layout without any frontend frameworks.
+
 2.Sass functions ensure DRY, consistent design patterns.
+
 3. Ideal foundation for extending into a full admin or analytics dashboard.
 
 📝 Note
