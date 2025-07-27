@@ -28,6 +28,7 @@ This is a dashboard web page built using HTML and Sass, designed to present data
 
 2.Sass functions ensure DRY, consistent design patterns.
 
+
 3. Ideal foundation for extending into a full admin or analytics dashboard.
 
 📝 Note
